@@ -6,4 +6,33 @@ output:
       toc_float: true
       theme: cerulean
 ---
+## My resume
+Name: Haoyang YI          DOB: 04/14/1998
+
+# Education
+Shanghai Jiao Tong University    	                                  Shanghai, China
+Bachelor of Science in Resources and Environmental Sciences       	09/2016 - 06/2020
+
+Columbia University                                                                                               Master of Science in Biostatistics                                   09/2020-                                     
+
+# Publications
+Yi, H., Yan, Z., Wang, L. et al. Fluorometric determination for ofloxacin by using an aptamer and SYBR Green I. Microchim Acta (2019) 186:668; ISSN 1436-5073. doi: 10.1007/s00604-019-3788-8. 
+
+Zhiyu Yan, Haoyang Yi, et al. Fluorescent aptasensor for ofloxacin detection based on the aggregation of gold nanoparticles and its effect on quenching the fluorescence of Rhodamine B. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy. Volume 221, 2019, 117203; ISSN 1386-1425. doi: 10.1016/j.saa.2019.117203.
+
+# Honors
+Nominate for 2019 Rongchang science and technology innovation scholarship                     12/2019                                   
+Finalist for 2018 China National Innovation and Entrepreneurship Program for College Students 12/2018	 
+
+3rd place, 2018 SJTU Sports Cup - Volleyball Match	                                           12/2018
+
+2nd Prize, China High School Biology Olympiad                                                 05/2015
+
+# Internship
+Center for Disease Control and Prevention, Liuzhou City --  Summer Intern               	 07-08/2019
+•	Participated in the system management of the report data of infectious diseases control & prevention, focusing on the incidence of  tuberculosis, hepatitis, and hand-foot-mouth disease.
+
+Health Commission, Liuzhou City -- Summer Intern	                                        06-07/2019
+•	Gained basic understanding of the structure and operation of urban public health system by participating in the first half-year public health project inspection of Liuzhou city, covering 16 community health service centers; 
+•	Appraised the construction of basic public health system in each district by sampling health files and summarized the feedback of experts to reflect the problems and shortcomings during the construction process, with improvement schemes proposed. 
 
