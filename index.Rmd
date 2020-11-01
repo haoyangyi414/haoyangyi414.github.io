@@ -1,0 +1,10 @@
+---
+title: "My website"
+output: 
+   html_document:
+      toc: true
+      toc_float: true
+      theme: cerulean
+---
+## Welcome to Haoyang's website !
+<img src="images/image.jpg" style="width:75%">
