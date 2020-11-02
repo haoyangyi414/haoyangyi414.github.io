@@ -4,7 +4,7 @@ output:
    html_document:
       toc: true
       toc_float: true
-
+   
 ---
 
 # Data science and me.
@@ -15,7 +15,7 @@ output:
   [Take a series of data science courses](https://www.coursera.org/specializations/jhu-data-science)
   
 # Greeting
-  Come and say Hi to my favorite animal: pandas
+  Come and say Hi to my favorite animal: panda
 <img src="image/panda1.jpg" style="width:75%">
 
 # My hobby
