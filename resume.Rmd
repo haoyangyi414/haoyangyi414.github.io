@@ -1,12 +1,12 @@
 ---
-title: "resume"
+title: "Resume"
 output: 
    html_document:
       toc: true
       toc_float: true
       theme: cerulean
 ---
-## My resume
+
 Name: Haoyang YI          DOB: 04/14/1998
 
 # Education
