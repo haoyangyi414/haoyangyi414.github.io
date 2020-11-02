@@ -10,7 +10,7 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/<haoyangyi414>
     - icon: fa-facebook fa-lg
-      href: 
+      href: <https://www.facebook.com/haoyang.yi.5>
 output:
   html_document:
     theme: cerulean
