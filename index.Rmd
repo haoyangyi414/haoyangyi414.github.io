@@ -1,12 +1,13 @@
 ---
-title: "My website"
+title: "Haoyang's website"
 output: 
    html_document:
       toc: true
       toc_float: true
-      theme: cerulean
+
 ---
-## Welcome to Haoyang's website !
+
+# Data science and me.
   I'm a first-year student of biostatistics in Columbia Mailman public health school. I studied environmental science in undergraduate so data science it's  kind of a new start for me. Before attending this class, I studied several class about R programming and data science from Johns Hopkins University on coursera and that really help me a lot to accept the concepts and get familiar with using R to analyze data.
   
   [Coursera is a good source of courses](https://www.coursera.org)
