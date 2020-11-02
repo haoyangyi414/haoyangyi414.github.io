@@ -1,0 +1,16 @@
+name: "Haoyang's website"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About me"
+      href: resume.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<hy2669@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/haoyangyi414
+    - icon: fa-facebook fa-lg
+      href: <https://www.facebook.com/haoyang.yi.5>
+output:
+  html_document:
+    theme: cerulean
