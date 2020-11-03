@@ -6,13 +6,19 @@ output:
       toc_float: true
    
 ---
-
+# Birthday of this website!
+ 2020/11/2
+ 
 # Data science and me.
   I'm a first-year student of biostatistics in Columbia Mailman public health school. I studied environmental science in undergraduate so data science it's  kind of a new start for me. Before attending this class, I studied several class about R programming and data science from Johns Hopkins University on coursera and that really help me a lot to accept the concepts and get familiar with using R to analyze data.
+  
+  Recently I learned a lot on kaggle and it's a fantastic way to figure out how to apply programming knowledge in real life datasets.
   
   [Coursera is a good source of courses](https://www.coursera.org)
   
   [Take a series of data science courses](https://www.coursera.org/specializations/jhu-data-science)
+  
+  [See everything about a project in kaggle](https://www.kaggle.com)
   
 # Greeting
   Come and say Hi to my favorite animal: panda
